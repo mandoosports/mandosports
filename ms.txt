@@ -36,6 +36,22 @@ http://ghost1.tv/movie/100200300/300200100/130997.mkv
 
 
 
+
+
+
+
+#EXTINF:-1,[Series] بابا
+https://fvideo6d.ddns.me:443/2vod5n/masyبade-1_muxed.mp4
+
+#EXTINF:-1,[Episode] الحلقة 1
+https://fvideo6d.ddns.me:443/2vod5n/masyبade-1_muxed.mp4
+#EXTINF:-1,[Episode] الحلقة 2
+https://fvideo6d.ddns.me:443/2vod5n/mseadسسe-2_muxed.mp4
+
+
+
+
+
 #EXTINF:-1,[Series] المصيدة 
 https://fvideo6d.ddns.me:443/2vod5n/masyade-1_muxed.mp4
 
